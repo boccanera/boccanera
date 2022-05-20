@@ -1,4 +1,4 @@
-Hi 👋 My name is Nailton Boccanera de Andrade
+Nailton Boccanera de Andrade
 =============================================
 
 Software Developer
