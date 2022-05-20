@@ -1,4 +1,4 @@
-Nailton Boccanera de Andrade
+Nailton Boccanera
 =============================================
 
 Software Developer
