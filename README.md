@@ -4,7 +4,8 @@ Nailton Boccanera de Andrade
 Software Developer
 ------------------
 
-Basic knowledge in Java | Spring Boot | PostgreSQL, building my portfolio and studying back-end development up to dec/23. Good Soft skills development as: communication, commitment, resilience, empathy and well-organized. 
+Basic knowledge in Java | Spring Boot | PostgreSQL, building my portfolio and studying back-end development up to dec/23. 
+Good Soft skills development as: communication, commitment, resilience, empathy and well-organized. 
 Looking for internship/trainee in software development.
 
 * 🌍  I'm based in São Paulo, SP.
