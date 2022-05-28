@@ -10,7 +10,7 @@ Looking for internship/trainee in software development.
 
 * 🌍  I'm based in São Paulo, SP.
 * ✉️  You can contact me at [nailtonboccanera@gmail.com](mailto:nailtonboccanera@gmail.com)
-* 🧠  I'm learning advanced java skills to create my portfolio.
+* 🧠  I'm learning advanced java stack skills to create my portfolio.
 * ⚡  My hobby is programming... But don't tell anyone.
 
 ### Skills
