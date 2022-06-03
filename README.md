@@ -4,7 +4,7 @@ Nailton Boccanera
 Software Developer
 ------------------
 
-Basic knowledge in Java | Spring Boot | PostgreSQL, building my portfolio and studying back-end development up to dec/23. 
+Basic knowledge in Java | Spring Boot | PostgreSQL, building my portfolio and studying Software Engineer up to jun/25. 
 Good Soft skills development as: communication, commitment, resilience, empathy and well-organized. 
 Looking for internship/trainee in software development.
 
