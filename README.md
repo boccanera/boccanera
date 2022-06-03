@@ -1,7 +1,7 @@
 Nailton Boccanera
 =============================================
 
-Software Developer
+Software Engineer
 ------------------
 
 Basic knowledge in Java | Spring Boot | PostgreSQL, building my portfolio and studying Software Engineer up to jun/25. 
