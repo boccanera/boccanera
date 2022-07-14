@@ -9,9 +9,10 @@ Good Soft skills development as: communication, commitment, resilience, empathy 
 Looking for internship/trainee in software development.
 
 * 🌍  I'm based in São Paulo, SP.
-* ✉️  You can contact me at [nailtonboccanera@gmail.com](mailto:nailtonboccanera@gmail.com)
+* ✉️  You can contact me at [nailtonboccanera@gmail.com](mailto:nailtonboccanera@gmail.com) 
 * 🧠  I'm learning advanced java stack skills to create my portfolio.
 * ⚡  My hobby is programming... But don't tell anyone.
+* ✉️ LinkedIn: https://www.linkedin.com/in/nailtonboccanera/
 
 ### Skills
 
