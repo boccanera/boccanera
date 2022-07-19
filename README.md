@@ -5,7 +5,9 @@ Software Engineer
 ------------------
 
 Building my portfolio and studying Software Engineer up to may/25. 
+
 Soft Skills: communication, problem solving, team work, commitment, resilience and empathy. 
+
 Hard Skills: Java | Spring | SQL | HTML | CSS.
 
 
