@@ -4,13 +4,12 @@ Nailton Boccanera
 Software Engineer
 ------------------
 
-Basic knowledge in Java | Spring Boot | PostgreSQL, building my portfolio and studying Software Engineer up to jun/25. 
-Good Soft skills development as: communication, commitment, resilience, empathy and well-organized. 
-Looking for internship/trainee in software development.
+Java | Spring | SQL. Building my portfolio and studying Software Engineer up to may/25. 
+Good Soft skills development as: communication, problem solving, team work, commitment, resilience and empathy. 
 
 * 🌍  I'm based in São Paulo, SP.
 * ✉️  You can contact me at [nailtonboccanera@gmail.com](mailto:nailtonboccanera@gmail.com) 
-* 🧠  I'm learning advanced java stack skills to create my portfolio.
+* 🧠  I'm learning advanced java stack skills right now.
 * ⚡  My hobby is programming... But don't tell anyone.
 
 ### Skills
