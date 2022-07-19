@@ -6,15 +6,15 @@ Software Engineer
 
 Building my portfolio and studying Software Engineer up to may/25. 
 
-Soft Skills: communication, problem solving, team work, commitment, resilience and empathy. 
+Soft Skills: 
 
-Hard Skills: Java | Spring | SQL | HTML | CSS.
+Hard Skills: 
 
 
 * 🌍  I'm based in São Paulo, SP.
 * ✉️  You can contact me at [nailtonboccanera@gmail.com](mailto:nailtonboccanera@gmail.com) 
-* 🧠  I'm learning advanced java stack skills right now.
-* ⚡  My hobby is programming... But don't tell anyone.
+* 🧠  Java | Spring | SQL | HTML | CSS.
+* ⚡  Team work, problem solving, communication, commitment, resilience and empathy. 
 
 ### Skills
 
