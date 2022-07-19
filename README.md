@@ -4,13 +4,6 @@ Nailton Boccanera
 Software Engineer
 ------------------
 
-Building my portfolio and studying Software Engineer up to may/25. 
-
-Soft Skills: 
-
-Hard Skills: 
-
-
 * 🌍  I'm based in São Paulo, SP.
 * ✉️  You can contact me at [nailtonboccanera@gmail.com](mailto:nailtonboccanera@gmail.com) 
 * 🧠  Java | Spring | SQL | HTML | CSS.
