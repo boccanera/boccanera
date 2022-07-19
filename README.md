@@ -4,8 +4,10 @@ Nailton Boccanera
 Software Engineer
 ------------------
 
-Java | Spring | SQL. Building my portfolio and studying Software Engineer up to may/25. 
-Good Soft skills development as: communication, problem solving, team work, commitment, resilience and empathy. 
+Building my portfolio and studying Software Engineer up to may/25. 
+Soft Skills: communication, problem solving, team work, commitment, resilience and empathy. 
+Hard Skills: Java | Spring | SQL | HTML | CSS.
+
 
 * 🌍  I'm based in São Paulo, SP.
 * ✉️  You can contact me at [nailtonboccanera@gmail.com](mailto:nailtonboccanera@gmail.com) 
