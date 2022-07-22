@@ -4,7 +4,7 @@ Nailton Boccanera
 Software Engineer
 ------------------
 
-* 🌍  I'm based in São Paulo, SP.
+* 🌍  I'm in São Paulo, SP.
 * ✉️  You can contact me at [nailtonboccanera@gmail.com](mailto:nailtonboccanera@gmail.com) 
 * 🧠  Java | Spring | SQL | HTML | CSS.
 * ⚡  Team work, problem solving, communication, commitment, resilience and empathy. 
