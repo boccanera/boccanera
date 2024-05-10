@@ -6,7 +6,7 @@ Software Engineer
 
 * 🌍  Working remotely.
 * ✉️  You can contact me at [nailtonboccanera@gmail.com](mailto:nailtonboccanera@gmail.com) 
-* 🧠  Java | Spring | Typescript | Angular | Azure | SQL | HTML | CSS.
+* 🧠  Java | Spring | Angular | Azure | AWS | Gitlab | Grafana.
 * ⚡  Team work, problem solving, communication, commitment, resilience and empathy. 
 
 ### Skills
